@@ -18,7 +18,7 @@ This project introduces a versatile log classification system that combines mult
    - Best suited for ambiguous or rare patterns where labeled data is limited.
    - Acts as a backup strategy or complementary method to the above models.
 
-![architecture](resources/input.png)
+![architecture](resources/Input.png)
 
 ---
 
